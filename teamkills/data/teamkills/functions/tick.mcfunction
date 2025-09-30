@@ -1,0 +1,2 @@
+execute if score Red teamKills >= target wins unless score lock wins matches 999 run function teamkills:win_red
+execute if score Blue teamKills >= target wins unless score lock wins matches 999 run function teamkills:win_blue
