@@ -1,0 +1,11 @@
+
+{
+	"criteria": {
+		"died": {
+			"trigger": "minecraft:entity_killed_player"
+		}
+	},
+	"rewards": {
+		"function": "teamkills:on_death"
+	}
+}
